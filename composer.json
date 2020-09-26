@@ -29,7 +29,7 @@
   "require": {
     "php": ">=7.1",
     "guzzlehttp/guzzle": "^6.3",
-    "monolog/monolog": "^1.25.2",
+    "monolog/monolog": "^1.25.2|^2.1.1",
     "lastguest/murmurhash": "^2.0.0",
     "ext-json": "*"
   },
